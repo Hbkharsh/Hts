@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169501981885",
+    "project_id": "nirbhay-97ab7",
+    "storage_bucket": "nirbhay-97ab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169501981885:android:ca6f6c1b935ba201474bd4",
+        "android_client_info": {
+          "package_name": "com.example.legalmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169501981885-f42uke75coi4so9jqju2hhchnm2su98l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxbkE4MWHOPtizuRt6bYobXlEHtxdJ3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169501981885-f42uke75coi4so9jqju2hhchnm2su98l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
